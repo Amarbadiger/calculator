@@ -1,0 +1,2 @@
+# calculator
+I have designed a very basic simple calculator using JavaScript. The calculator utilizes internal JavaScript to declare variables and retrieve HTML element IDs. Inline JavaScript is used to assign values and display them within an input tag. Additionally, the `eval()` function is employed to perform mathematical operations, making it possible to calculate arithmetic expressions within the calculator.
